@@ -1,0 +1,7 @@
+/build
+
+target/
+output/
+release/
+debug/
+*.log
