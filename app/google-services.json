@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "700304724096",
+    "firebase_url": "https://mymovieapp-16f17-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mymovieapp-16f17",
+    "storage_bucket": "mymovieapp-16f17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700304724096:android:d8ee9d160b0c2ad4969665",
+        "android_client_info": {
+          "package_name": "com.shevy.mymovieapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700304724096-nglpv050a7lva8tren6l59peqnscjs85.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shevy.mymovieapp",
+            "certificate_hash": "81d094266421d1eaef17d1bf06f8f6d82f4788b5"
+          }
+        },
+        {
+          "client_id": "700304724096-j3qtiniv6hstokulcmev0fbnlfn76vr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCooPqB-Z2Z7V8OJAUYZ_nvaM5mKDndMrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700304724096-j3qtiniv6hstokulcmev0fbnlfn76vr1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
