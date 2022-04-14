@@ -12,7 +12,6 @@ import com.google.firebase.database.ktx.database
 import com.google.firebase.ktx.Firebase
 
 class MainActivity : AppCompatActivity() {
-    private lateinit var database: DatabaseReference
 
 /*    private val signInLauncher = registerForActivityResult(
         FirebaseAuthUIActivityResultContract()
@@ -24,9 +23,6 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        database = Firebase.database.reference
-        database.child("user2").child("userId").setValue("user")
-        Log.d("Database Main Activity", "Database2 = $database")
 
         val btn_click_me = findViewById<Button>(R.id.main_activity_register_button)
 
